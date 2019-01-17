@@ -1,0 +1,43 @@
+
+Slack (internal communication - messenger)
+Hangout (with software users)
+ellis (request from IT,HR,...)
+calendar.google.com (calendar and organizer)
+
+
+datagrip (from resharper)
+
+
+cloud apps link:
+	https://account.activedirectory.windowsazure.com/r#/applications
+production raven db:
+	https://nlam01-vpvrdb05.office.coolblue.eu:8080/
+acceptance raven db:
+	https://nlam01-vavrdb05.office.coolblue.eu:8080/
+
+
+Testing
+	unit tests
+	integrated tests (mstest or something), aka Feature Tests
+	Gherkin/Cucumber tests and scripts, aka Acceptance Tests
+	
+	ncrunch (test runner)
+		runs unit tests automatically when the relevant code changes
+		also can run integrated tests (feature tests)
+
+	TeamCity runs all the tests after each pull request
+
+
+
+Splunk cloud is the logging service
+
+
+yarn
+
+swagger
+octupus (build server)
+teamsystem (CI/CD)
+cake (scripts for preparing AWS packages?)
+
+
+reading PACE services code
