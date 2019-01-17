@@ -8,7 +8,7 @@
  * @package External
  * @subpackage OPML Parser
  */
-
+ //test
 class OPML {
 	var $file;
 	var $feeds;
